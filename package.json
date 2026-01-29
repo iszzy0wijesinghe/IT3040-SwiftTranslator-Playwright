@@ -1,0 +1,36 @@
+{
+
+  "name": "it23207936_playwright",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "test": "playwright test",
+
+    "test:ui": "playwright test --ui",
+
+    "report": "playwright show-report"
+
+  },
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC",
+
+  "devDependencies": {
+
+    "@playwright/test": "^1.58.0",
+
+    "@types/node": "^25.1.0"
+
+  }
+
+}
+
