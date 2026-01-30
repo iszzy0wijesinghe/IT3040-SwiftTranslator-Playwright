@@ -8,7 +8,7 @@
    npx playwright install
 
 ## Run tests
-npm test
+npx playwright test
 
 ## View report
 npx playwright show-report
