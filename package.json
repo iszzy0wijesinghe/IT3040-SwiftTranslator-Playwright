@@ -10,11 +10,11 @@
 
   "scripts": {
 
-    "test": "playwright test",
+    "test": "npx playwright test",
 
-    "test:ui": "playwright test --ui",
+    "test:ui": "npx playwright test --ui",
 
-    "report": "playwright show-report"
+    "report": "npx playwright show-report"
 
   },
 
